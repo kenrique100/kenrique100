@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenrique Ngwa</h1>
 <h3 align="center">A passionate Full stack Software Engineer from Cameroon</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/kenrique100/Kenrique_Ngwa/assets/72971484/3be76e57-a06c-4a49-98a0-bd1f54785388)">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-M9_UbOYfCQuIFjULoJP_-ycy_R2eXiJxJi-nrOaJJyBeeOtYnYYkp7tDjAGByJuCoAk&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenrique100&label=Profile%20views&color=0e75b6&style=flat" alt="kenrique100" /> </p>
 
