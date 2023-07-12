@@ -6,7 +6,7 @@ a<h1 align="center">Hi 👋, I'm Kenrique Ngwa</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenrique100" alt="kenrique100" /></a> </p>
 
-- 🌱 I’m currently learning **Scrum, Agile, Data analyses course and an Student at ALX_Africa**
+- 🌱 I’m currently learning **Scrum, Agile, Data analyses course and a Student at ALX_Africa**
 
 - 👯 I’m looking to collaborate on **Java and Javascript microservice apps**
 
