@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Java and Javascript microservice apps**
 
-- I recently actually a certification at **https://www.freecodecamp.org/certification/kenrique/full-stack**
+- I recently acquired a certification at **https://www.freecodecamp.org/certification/kenrique/full-stack**
 
 - 🤝 I’m looking for help with **Java**
 
