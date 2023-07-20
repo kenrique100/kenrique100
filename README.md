@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenrique100" alt="kenrique100" /></a> </p>
 
-- 🌱 I’m currently learning **Scrum, Agile, Data analyses course and a Student at ALX_Africa**
+- 🌱 I’m currently learning **Scrum, Agile, Data analyses, more of java and nodejs dev**
 
 - 👯 I’m looking to collaborate on **Java and Javascript microservice apps**
 
-- I recently acquired a certification at **https://www.freecodecamp.org/certification/kenrique/full-stack**
+- I recently acquired a full stack certification at **https://www.freecodecamp.org/certification/kenrique/full-stack**
 
 - 🤝 I’m looking for help with **Java**
 
-- 💬 Ask me about **Java and javascript Api**
+- 💬 Ask me about **Java and javascript Api development**
 
 - 📫 How to reach me **ngwakenri2016@gmail.com**
 
