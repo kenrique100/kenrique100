@@ -71,9 +71,6 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenrique100&show_icons=true&locale=en&layout=compact" alt="kenrique100" />
-</p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kenrique100&show_icons=true&locale=en" alt="kenrique100" />
