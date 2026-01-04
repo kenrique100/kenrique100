@@ -10,6 +10,7 @@
 </p>
 
 - 🌱 I’m currently learning **Scrum, Agile, Java, and Node.js**
+- Designing and Documentation of modern software architectures (SRS DOCS)
 - 👯 I’m looking to collaborate on **Java and JavaScript microservice apps**
 - 🏆 I recently acquired a full stack certification at **[freeCodeCamp](https://www.freecodecamp.org/certification/kenrique/full-stack)**
 - 🤝 I’m looking for help with **Java** Open Source Projects
