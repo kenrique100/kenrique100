@@ -13,12 +13,64 @@
 - 📫 How to reach me **ngwakenri2016@gmail.com**
 - ⚡ Fun fact **I am determined to learn more**
 
+<style>
+  .social-modules {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .social-modules a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #f0f0f0;
+    border-radius: 12px;
+    padding: 10px;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    min-width: 60px;
+  }
+  .social-modules a:hover {
+    background: #e0e0e0;
+    transform: translateY(-3px);
+  }
+  .tools-modules {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .tools-modules a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #f0f0f0;
+    border-radius: 12px;
+    padding: 10px;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    min-width: 70px;
+  }
+  .tools-modules a:hover {
+    background: #e0e0e0;
+    transform: translateY(-3px);
+  }
+  @media (max-width: 768px) {
+    .social-modules a, .tools-modules a {
+      flex: 1 1 auto;
+    }
+  }
+</style>
+
 <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start; justify-content: flex-start;">
   
   <!-- Connect with me section -->
-  <div style="flex: 1; min-width: 200px;">
+  <div style="flex: 1; min-width: 250px;">
     <h3 align="left">Connect with me:</h3>
-    <p align="left">
+    <div class="social-modules">
       <a href="https://twitter.com/kenrique_ngwa" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kenrique_ngwa" height="30" width="40" />
       </a>
@@ -31,13 +83,13 @@
       <a href="https://www.instagram.com/kenrique_ngwa/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kenrique_ngwa" height="30" width="40" />
       </a>
-    </p>
+    </div>
   </div>
 
   <!-- Languages and Tools section -->
   <div style="flex: 2; min-width: 300px;">
     <h3 align="left">Languages and Tools:</h3>
-    <p align="left">
+    <div class="tools-modules">
       <a href="https://angular.io" target="_blank">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
       </a>
@@ -71,7 +123,7 @@
       <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
       </a>
-    </p>
+    </div>
   </div>
 
 </div>
