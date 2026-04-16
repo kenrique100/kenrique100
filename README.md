@@ -18,8 +18,8 @@
   <a href="https://twitter.com/kenrique_ngwa" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kenrique_ngwa" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/awah-kenrique-anyere-ngwa-87118621a/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awah-kenrique-anyere-ngwa" height="30" width="40" />
+  <a href="https://linkedin.com/in/awah-kenrique-ngwa-87118621a/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awah-kenrique-ngwa" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/ngwakenrique" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ngwakenrique" height="30" width="40" />
