@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenrique100&label=Profile%20views&color=0e75b6&style=flat" alt="kenrique100" /> </p>
 
 
-- 🌱 I’m currently learning **Scrum, Agile, Java, and Node.js**
+- 🌱 I’m currently learning **ServiceNow**
 - Designing and Documentation of modern software architectures (SRS DOCS)
 - 👯 I’m looking to collaborate on **Java and JavaScript microservice apps**
 - 🏆 I recently acquired a full stack certification at **[freeCodeCamp](https://www.freecodecamp.org/certification/kenrique/full-stack)**
